@@ -10,7 +10,9 @@ import java.net.URL;
 public class Main3 {
 
     public static void main(String[] args) {
-        System.out.println(chatGPT("hello, how are you?"));
+
+
+        System.out.println(chatGPT("hello, how are you?"));// todo текст сообщщения
         // Prints out a response to the question.
     }
 
